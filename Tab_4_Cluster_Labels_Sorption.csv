@@ -1,0 +1,55 @@
+Compound;Number of Clusters;Cluster Label ACF;Cluster Label DeACF;Cluster Label OXACF
+1,3-Diphenylguanidine;2;1;1;1
+1H-Benzotriazole;2;0;0;0
+2-Benzothiazolesulfonic acid;2;0;0;0
+2-Naphthalenesulfonic acid;2;0;1;0
+4-Hydroxyquinoline;2;0;0;1
+4-Nitrophenol;2;0;0;1
+Acesulfame;2;0;0;0
+Ciprofloxacin;2;0;0;0
+Cyclohexylamine;2;0;0;0
+Diethylphthalate;2;0;0;1
+Gabapentin;2;0;0;0
+Guanylurea;2;0;0;1
+Mecoprop;2;0;1;0
+PFBA;2;0;0;0
+PFBS;2;0;0;0
+Sulfamethoxazole;2;0;1;0
+Tetraethylammonium;2;0;0;0
+Triethylphosphate;2;0;0;0
+1,3-Diphenylguanidine;3;1;1;0
+1H-Benzotriazole;3;0;2;1
+2-Benzothiazolesulfonic acid;3;2;2;1
+2-Naphthalenesulfonic acid;3;0;1;2
+4-Hydroxyquinoline;3;0;0;0
+4-Nitrophenol;3;2;2;0
+Acesulfame;3;0;2;2
+Ciprofloxacin;3;2;0;1
+Cyclohexylamine;3;0;0;1
+Diethylphthalate;3;0;0;0
+Gabapentin;3;0;0;1
+Guanylurea;3;0;2;0
+Mecoprop;3;2;1;2
+PFBA;3;2;2;1
+PFBS;3;0;2;1
+Sulfamethoxazole;3;2;1;1
+Tetraethylammonium;3;2;0;2
+Triethylphosphate;3;2;2;2
+1,3-Diphenylguanidine;4;3;1;1
+1H-Benzotriazole;4;2;0;0
+2-Benzothiazolesulfonic acid;4;0;0;0
+2-Naphthalenesulfonic acid;4;1;1;2
+4-Hydroxyquinoline;4;1;2;1
+4-Nitrophenol;4;0;0;3
+Acesulfame;4;2;0;2
+Ciprofloxacin;4;0;2;0
+Cyclohexylamine;4;2;3;0
+Diethylphthalate;4;2;2;3
+Gabapentin;4;2;3;0
+Guanylurea;4;2;0;3
+Mecoprop;4;0;1;2
+PFBA;4;0;0;0
+PFBS;4;2;0;0
+Sulfamethoxazole;4;0;1;0
+Tetraethylammonium;4;0;3;2
+Triethylphosphate;4;0;0;2

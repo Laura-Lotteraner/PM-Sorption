@@ -1,0 +1,169 @@
+Compound Properties;Similarity Measure;Metric;CPCC
+arom rings;average;euclidean;0.87
+arom rings;average;l1;0.87
+arom rings;single;euclidean;0.86
+arom rings;single;l1;0.86
+arom rings;complete;euclidean;0.86
+arom rings;complete;l1;0.86
+arom rings, V;average;euclidean;0.78
+arom rings, V;average;l1;0.76
+arom rings, V;complete;euclidean;0.75
+arom rings, V;complete;l1;0.75
+arom rings, V;single;l1;0.74
+arom rings, V;single;euclidean;0.74
+log D;average;euclidean;0.84
+log D;average;l1;0.84
+log D;single;euclidean;0.79
+log D;single;l1;0.79
+log D;complete;euclidean;0.67
+log D;complete;l1;0.67
+log D, mol weight;average;euclidean;0.75
+log D, mol weight;average;l1;0.75
+log D, mol weight;single;l1;0.75
+log D, mol weight;complete;euclidean;0.74
+log D, mol weight;single;euclidean;0.74
+log D, mol weight;complete;l1;0.70
+log D, mol weight, pos charge;average;euclidean;0.95
+log D, mol weight, pos charge;average;l1;0.95
+log D, mol weight, pos charge;single;l1;0.95
+log D, mol weight, pos charge;complete;l1;0.95
+log D, mol weight, pos charge;single;euclidean;0.94
+log D, mol weight, pos charge;complete;euclidean;0.94
+log D, mol weight, pos charge, neg charge;average;euclidean;0.92
+log D, mol weight, pos charge, neg charge;complete;euclidean;0.92
+log D, mol weight, pos charge, neg charge;single;l1;0.92
+log D, mol weight, pos charge, neg charge;average;l1;0.92
+log D, mol weight, pos charge, neg charge;single;euclidean;0.91
+log D, mol weight, pos charge, neg charge;complete;l1;0.89
+log D, mol weight, pos charge, neg charge, water sol;average;euclidean;0.93
+log D, mol weight, pos charge, neg charge, water sol;single;l1;0.92
+log D, mol weight, pos charge, neg charge, water sol;complete;euclidean;0.91
+log D, mol weight, pos charge, neg charge, water sol;complete;l1;0.91
+log D, mol weight, pos charge, neg charge, water sol;average;l1;0.91
+log D, mol weight, pos charge, neg charge, water sol;single;euclidean;0.87
+log D, mol weight, pos charge, neg charge, water sol, arom rings;average;euclidean;0.89
+log D, mol weight, pos charge, neg charge, water sol, arom rings;single;l1;0.87
+log D, mol weight, pos charge, neg charge, water sol, arom rings;average;l1;0.86
+log D, mol weight, pos charge, neg charge, water sol, arom rings;complete;euclidean;0.84
+log D, mol weight, pos charge, neg charge, water sol, arom rings;single;euclidean;0.82
+log D, mol weight, pos charge, neg charge, water sol, arom rings;complete;l1;0.78
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;average;euclidean;0.89
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;average;l1;0.88
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;complete;l1;0.87
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;complete;euclidean;0.87
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;single;euclidean;0.87
+log D, mol weight, pos charge, neg charge, water sol, arom rings, V;single;l1;0.82
+mol weight;average;euclidean;0.82
+mol weight;average;l1;0.82
+mol weight;single;euclidean;0.77
+mol weight;single;l1;0.77
+mol weight;complete;euclidean;0.61
+mol weight;complete;l1;0.61
+mol weight, pos charge;average;euclidean;0.97
+mol weight, pos charge;average;l1;0.97
+mol weight, pos charge;single;euclidean;0.96
+mol weight, pos charge;single;l1;0.96
+mol weight, pos charge;complete;l1;0.96
+mol weight, pos charge;complete;euclidean;0.94
+mol weight, pos charge, neg charge;average;euclidean;0.93
+mol weight, pos charge, neg charge;average;l1;0.92
+mol weight, pos charge, neg charge;complete;euclidean;0.92
+mol weight, pos charge, neg charge;single;l1;0.91
+mol weight, pos charge, neg charge;single;euclidean;0.91
+mol weight, pos charge, neg charge;complete;l1;0.89
+mol weight, pos charge, neg charge, water sol;average;euclidean;0.92
+mol weight, pos charge, neg charge, water sol;single;l1;0.91
+mol weight, pos charge, neg charge, water sol;average;l1;0.90
+mol weight, pos charge, neg charge, water sol;single;euclidean;0.86
+mol weight, pos charge, neg charge, water sol;complete;euclidean;0.86
+mol weight, pos charge, neg charge, water sol;complete;l1;0.84
+mol weight, pos charge, neg charge, water sol, arom rings;average;euclidean;0.89
+mol weight, pos charge, neg charge, water sol, arom rings;average;l1;0.87
+mol weight, pos charge, neg charge, water sol, arom rings;single;l1;0.86
+mol weight, pos charge, neg charge, water sol, arom rings;complete;euclidean;0.85
+mol weight, pos charge, neg charge, water sol, arom rings;complete;l1;0.84
+mol weight, pos charge, neg charge, water sol, arom rings;single;euclidean;0.82
+mol weight, pos charge, neg charge, water sol, arom rings, V;average;euclidean;0.89
+mol weight, pos charge, neg charge, water sol, arom rings, V;average;l1;0.87
+mol weight, pos charge, neg charge, water sol, arom rings, V;complete;euclidean;0.87
+mol weight, pos charge, neg charge, water sol, arom rings, V;single;euclidean;0.87
+mol weight, pos charge, neg charge, water sol, arom rings, V;complete;l1;0.86
+mol weight, pos charge, neg charge, water sol, arom rings, V;single;l1;0.85
+neg charge;average;euclidean;1.00
+neg charge;average;l1;1.00
+neg charge;complete;euclidean;1.00
+neg charge;complete;l1;1.00
+neg charge;single;euclidean;1.00
+neg charge;single;l1;1.00
+neg charge, water sol;average;euclidean;0.97
+neg charge, water sol;complete;euclidean;0.96
+neg charge, water sol;average;l1;0.96
+neg charge, water sol;single;euclidean;0.96
+neg charge, water sol;single;l1;0.96
+neg charge, water sol;complete;l1;0.95
+neg charge, water sol, arom rings;average;euclidean;0.92
+neg charge, water sol, arom rings;complete;euclidean;0.91
+neg charge, water sol, arom rings;average;l1;0.91
+neg charge, water sol, arom rings;single;l1;0.90
+neg charge, water sol, arom rings;single;euclidean;0.90
+neg charge, water sol, arom rings;complete;l1;0.89
+neg charge, water sol, arom rings, V;average;euclidean;0.89
+neg charge, water sol, arom rings, V;average;l1;0.87
+neg charge, water sol, arom rings, V;single;l1;0.86
+neg charge, water sol, arom rings, V;single;euclidean;0.85
+neg charge, water sol, arom rings, V;complete;l1;0.85
+neg charge, water sol, arom rings, V;complete;euclidean;0.85
+pos charge;average;euclidean;1.00
+pos charge;average;l1;1.00
+pos charge;complete;euclidean;1.00
+pos charge;complete;l1;1.00
+pos charge;single;euclidean;1.00
+pos charge;single;l1;1.00
+pos charge, neg charge;average;euclidean;0.96
+pos charge, neg charge;complete;euclidean;0.95
+pos charge, neg charge;average;l1;0.95
+pos charge, neg charge;single;euclidean;0.95
+pos charge, neg charge;single;l1;0.95
+pos charge, neg charge;complete;l1;0.91
+pos charge, neg charge, water sol;average;euclidean;0.94
+pos charge, neg charge, water sol;complete;euclidean;0.92
+pos charge, neg charge, water sol;average;l1;0.92
+pos charge, neg charge, water sol;single;euclidean;0.90
+pos charge, neg charge, water sol;single;l1;0.90
+pos charge, neg charge, water sol;complete;l1;0.89
+pos charge, neg charge, water sol, arom rings;average;euclidean;0.90
+pos charge, neg charge, water sol, arom rings;average;l1;0.88
+pos charge, neg charge, water sol, arom rings;complete;euclidean;0.86
+pos charge, neg charge, water sol, arom rings;single;l1;0.86
+pos charge, neg charge, water sol, arom rings;single;euclidean;0.84
+pos charge, neg charge, water sol, arom rings;complete;l1;0.83
+pos charge, neg charge, water sol, arom rings, V;average;euclidean;0.90
+pos charge, neg charge, water sol, arom rings, V;average;l1;0.89
+pos charge, neg charge, water sol, arom rings, V;single;l1;0.88
+pos charge, neg charge, water sol, arom rings, V;single;euclidean;0.87
+pos charge, neg charge, water sol, arom rings, V;complete;euclidean;0.87
+pos charge, neg charge, water sol, arom rings, V;complete;l1;0.86
+V;average;euclidean;0.82
+V;average;l1;0.82
+V;complete;euclidean;0.75
+V;complete;l1;0.75
+V;single;euclidean;0.74
+V;single;l1;0.74
+water sol;single;euclidean;0.97
+water sol;single;l1;0.97
+water sol;average;euclidean;0.96
+water sol;average;l1;0.96
+water sol;complete;euclidean;0.95
+water sol;complete;l1;0.95
+water sol, arom rings;average;euclidean;0.88
+water sol, arom rings;average;l1;0.87
+water sol, arom rings;complete;euclidean;0.87
+water sol, arom rings;complete;l1;0.86
+water sol, arom rings;single;l1;0.75
+water sol, arom rings;single;euclidean;0.75
+water sol, arom rings, V;average;l1;0.79
+water sol, arom rings, V;average;euclidean;0.79
+water sol, arom rings, V;complete;euclidean;0.79
+water sol, arom rings, V;single;l1;0.68
+water sol, arom rings, V;complete;l1;0.65
+water sol, arom rings, V;single;euclidean;0.62
