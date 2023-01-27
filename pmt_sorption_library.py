@@ -29,6 +29,7 @@ def distances_clustering(x_cluster, linkage_method, affinity):
     agglo = AgglomerativeClustering(linkage=linkage_method, affinity = affinity, compute_distances=True)
     agglo.fit(x_cluster)
 
+    # get distances of all pairs of nodes that have a direct join
     children = agglo.children_
     children_list = children.tolist()
     distances = agglo.distances_.tolist()
@@ -37,6 +38,7 @@ def distances_clustering(x_cluster, linkage_method, affinity):
 
     distance_vector = []
 
+    # iterate through all compounds to compute distance between all compound pairs
     for i in range(no_samples):
         for j in range(i):
 
@@ -46,12 +48,14 @@ def distances_clustering(x_cluster, linkage_method, affinity):
             criterium = True
 
             while criterium:
+                # if the two compounds are joined directly in the algorithm, their distance is already computed
                 if ([index_1, index_2] in children_list):
                     distance_vector.append(distances[children_list.index([index_1, index_2])])
                     criterium = False
                 elif (([index_2, index_1] in children_list)):
                     distance_vector.append(distances[children_list.index([index_2, index_1])])
                     criterium = False
+                # if the two compounds are not joined directly in the algorithm, move up the dendrogram to their first join -> take that join's distance
                 else:
                     while ([index_1, index_2] not in children_list) and ([index_2, index_1] not in children_list):
                         for k in range(len(children.tolist())):
