@@ -1,84 +1,85 @@
-Sorbent;Compound Properties;Distance Correlation
-ACF;arom rings;0.82
-ACF;arom rings, V;0.81
-ACF;water sol, arom rings;0.76
-ACF;water sol, arom rings, V;0.75
-ACF;neg charge, water sol, arom rings;0.63
-ACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.62
-ACF;pos charge, neg charge, water sol, arom rings, V;0.62
-ACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.61
-ACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.61
-ACF;mol weight, pos charge, neg charge, water sol, arom rings;0.60
-ACF;pos charge, neg charge, water sol, arom rings;0.60
-ACF;log D;0.51
-ACF;log D, mol weight;0.49
-ACF;log D, mol weight, pos charge, neg charge, water sol;0.44
-ACF;log D, mol weight, pos charge;0.44
-ACF;V;0.44
-ACF;log D, mol weight, pos charge, neg charge;0.42
-ACF;mol weight, pos charge, neg charge, water sol;0.41
-ACF;pos charge, neg charge, water sol;0.40
-ACF;mol weight, pos charge;0.38
-ACF;mol weight, pos charge, neg charge;0.38
-ACF;neg charge, water sol;0.36
-ACF;mol weight;0.36
-ACF;pos charge, neg charge;0.33
-ACF;water sol;0.33
-ACF;pos charge;0.32
-ACF;neg charge;0.24
-DeACF;arom rings, V;0.74
-DeACF;arom rings;0.69
-DeACF;water sol, arom rings, V;0.69
-DeACF;water sol, arom rings;0.64
-DeACF;V;0.58
-DeACF;neg charge, water sol, arom rings, V;0.57
-DeACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.56
-DeACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.56
-DeACF;pos charge, neg charge, water sol, arom rings, V;0.55
-DeACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.53
-DeACF;mol weight, pos charge, neg charge, water sol, arom rings;0.53
-DeACF;neg charge, water sol, arom rings;0.52
-DeACF;log D, mol weight;0.51
-DeACF;pos charge, neg charge, water sol, arom rings;0.51
-DeACF;mol weight;0.49
-DeACF;log D;0.42
-DeACF;log D, mol weight, pos charge;0.40
-DeACF;log D, mol weight, pos charge, neg charge, water sol;0.39
-DeACF;log D, mol weight, pos charge, neg charge;0.38
-DeACF;mol weight, pos charge, neg charge, water sol;0.37
-DeACF;mol weight, pos charge;0.35
-DeACF;mol weight, pos charge, neg charge;0.35
-DeACF;pos charge, neg charge, water sol;0.32
-DeACF;water sol;0.29
-DeACF;pos charge, neg charge;0.28
-DeACF;neg charge, water sol;0.26
-DeACF;pos charge;0.22
-DeACF;neg charge;0.18
-OXACF;arom rings;0.652115863
-OXACF;arom rings, V;0.645559872
-OXACF;water sol, arom rings;0.633714414
-OXACF;water sol, arom rings, V;0.611978725
-OXACF;neg charge, water sol, arom rings, V;0.571470229
-OXACF;neg charge, water sol, arom rings;0.561296387
-OXACF;log D;0.549408844
-OXACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.534299118
-OXACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.529796263
-OXACF;pos charge, neg charge, water sol, arom rings, V;0.520357873
-OXACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.519816733
-OXACF;mol weight, pos charge, neg charge, water sol, arom rings;0.512193395
-OXACF;pos charge, neg charge, water sol, arom rings;0.504291869
-OXACF;log D, mol weight;0.495022843
-OXACF;log D, mol weight, pos charge, neg charge, water sol;0.408404726
-OXACF;log D, mol weight, pos charge, neg charge;0.400838009
-OXACF;mol weight, pos charge, neg charge, water sol;0.375337071
-OXACF;neg charge, water sol;0.372301467
-OXACF;log D, mol weight, pos charge;0.36929891
-OXACF;mol weight, pos charge, neg charge;0.360093302
-OXACF;pos charge, neg charge, water sol;0.349013449
-OXACF;V;0.338369879
-OXACF;neg charge;0.33557454
-OXACF;pos charge, neg charge;0.318665165
-OXACF;mol weight;0.274096307
-OXACF;mol weight, pos charge;0.260002444
-OXACF;water sol;0.245984166
-OXACF;pos charge;0.169960588
+carbon;properties;dcor
+DeACF;log D;0.46649295089671117
+DeACF;log D, mol weight;0.5469633537364558
+DeACF;mol weight;0.5168417536004182
+DeACF;log D, mol weight, pos charge;0.4197617998448662
+DeACF;mol weight, pos charge;0.3699946661329535
+DeACF;pos charge;0.21986160041072683
+DeACF;log D, mol weight, pos charge, neg charge;0.39933433873731994
+DeACF;mol weight, pos charge, neg charge;0.3648796553894582
+DeACF;pos charge, neg charge;0.28019912277510267
+DeACF;neg charge;0.18102357090341578
+DeACF;log D, mol weight, pos charge, neg charge, water sol;0.407808468685368
+DeACF;mol weight, pos charge, neg charge, water sol;0.3850204897518308
+DeACF;pos charge, neg charge, water sol;0.33621224678609507
+DeACF;neg charge, water sol;0.2771939849273906
+DeACF;water sol;0.3213228781220811
+DeACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.5377527316176058
+DeACF;mol weight, pos charge, neg charge, water sol, arom rings;0.5322020171380836
+DeACF;pos charge, neg charge, water sol, arom rings;0.5101507544785944
+DeACF;neg charge, water sol, arom rings;0.5197734176966458
+DeACF;water sol, arom rings;0.6373799428681303
+DeACF;arom rings;0.6923474597599065
+DeACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.5710201646574105
+DeACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.5682435732957348
+DeACF;pos charge, neg charge, water sol, arom rings, V;0.5611064446383215
+DeACF;neg charge, water sol, arom rings, V;0.5854362522309867
+DeACF;water sol, arom rings, V;0.7094371808686697
+DeACF;arom rings, V;0.7645002365959527
+DeACF;V;0.6560839886366636
+ACF;log D;0.5423998690995806
+ACF;log D, mol weight;0.5220601720785448
+ACF;mol weight;0.3773561226256911
+ACF;log D, mol weight, pos charge;0.45560709531582133
+ACF;mol weight, pos charge;0.39476533874003134
+ACF;pos charge;0.3219971978938157
+ACF;log D, mol weight, pos charge, neg charge;0.43455207293549325
+ACF;mol weight, pos charge, neg charge;0.3892012821803829
+ACF;pos charge, neg charge;0.3335363395903973
+ACF;neg charge;0.24194381460106126
+ACF;log D, mol weight, pos charge, neg charge, water sol;0.4576492689175677
+ACF;mol weight, pos charge, neg charge, water sol;0.42758267651523707
+ACF;pos charge, neg charge, water sol;0.40944125559292804
+ACF;neg charge, water sol;0.3875694382267959
+ACF;water sol;0.37101678721498965
+ACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.6154204277732347
+ACF;mol weight, pos charge, neg charge, water sol, arom rings;0.6062122909065818
+ACF;pos charge, neg charge, water sol, arom rings;0.6032073461489602
+ACF;neg charge, water sol, arom rings;0.629627238560387
+ACF;water sol, arom rings;0.7629581871979784
+ACF;arom rings;0.8214908204413989
+ACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.6266972942140104
+ACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.6193863487531308
+ACF;pos charge, neg charge, water sol, arom rings, V;0.6245034619418318
+ACF;neg charge, water sol, arom rings, V;0.6513828473744351
+ACF;water sol, arom rings, V;0.7708550995200828
+ACF;arom rings, V;0.8247122934145487
+ACF;V;0.5036551667443194
+OXACF;log D;0.544032400712603
+OXACF;log D, mol weight;0.49083157811153666
+OXACF;mol weight;0.24947067590333472
+OXACF;log D, mol weight, pos charge;0.37793027233298865
+OXACF;mol weight, pos charge;0.2666222979842107
+OXACF;pos charge;0.1699590868509318
+OXACF;log D, mol weight, pos charge, neg charge;0.40766965964969576
+OXACF;mol weight, pos charge, neg charge;0.3637215878091021
+OXACF;pos charge, neg charge;0.318660798335444
+OXACF;neg charge;0.33557045926679224
+OXACF;log D, mol weight, pos charge, neg charge, water sol;0.41987001737979684
+OXACF;mol weight, pos charge, neg charge, water sol;0.3838378467962476
+OXACF;pos charge, neg charge, water sol;0.3563265061405551
+OXACF;neg charge, water sol;0.391163767081079
+OXACF;water sol;0.2921455132128719
+OXACF;log D, mol weight, pos charge, neg charge, water sol, arom rings;0.5293029286481048
+OXACF;mol weight, pos charge, neg charge, water sol, arom rings;0.5104866274035802
+OXACF;pos charge, neg charge, water sol, arom rings;0.5033339334042364
+OXACF;neg charge, water sol, arom rings;0.5620310057306817
+OXACF;water sol, arom rings;0.6338895026852495
+OXACF;arom rings;0.6521180435108478
+OXACF;log D, mol weight, pos charge, neg charge, water sol, arom rings, V;0.5382256092104207
+OXACF;mol weight, pos charge, neg charge, water sol, arom rings, V;0.5224553213781112
+OXACF;pos charge, neg charge, water sol, arom rings, V;0.5238503802562057
+OXACF;neg charge, water sol, arom rings, V;0.5778654115562016
+OXACF;water sol, arom rings, V;0.6304929778077649
+OXACF;arom rings, V;0.6646865888853483
+OXACF;V;0.42092126032127913
