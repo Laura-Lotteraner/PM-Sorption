@@ -1,0 +1,7 @@
+;mol weight;pos charge;neg charge;water sol;arom rings;mol volume
+log D;0.24;-0.58;-0.12;-0.65;0.58;0.25
+mol weight;;-0.18;0.55;-0.57;0.19;0.72
+pos charge;;;-0.32;0.40;-0.22;0.21
+neg charge;;;;-0.34;-0.03;0.18
+water sol;;;;;-0.42;-0.45
+arom rings;;;;;;0.37
