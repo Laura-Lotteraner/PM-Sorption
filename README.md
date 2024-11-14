@@ -1,4 +1,4 @@
-# PMT-Sorption
+# PM-Sorption
 
 Details about the data and the interpretation of the results are in the process of being published. 
 This repository is structured as follows:
@@ -14,7 +14,7 @@ This repository is structured as follows:
 - _Tab_6_Distance_Correlation_ contains distance correlation between compound properties and the sorption parameter KF
 
 ## Code
-- _pmt_sorption_library.py_ provides functions that are used in the other scripts
+- _pm_sorption_library.py_ provides functions that are used in the other scripts
 - _cpcc.py_ calculates Tab_3a from Tab_2a and Tab_3b from Tab_1 using agglomerative clustering with different linkage_methods (similarity measures) and metrics
 - _distance_correlation.py_ calculates Tab_6 from Tab_Tab_1 and Tab_2a according to results from Tab_3a
 - _clustering.py_ clusters calculates Tab_4 from Tab_1 using agglomerative clustering according to results from Tab_3b
