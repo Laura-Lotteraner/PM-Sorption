@@ -6,7 +6,7 @@ import pandas as pd
 import dcor
 
 # import data preparation function
-from pmt_sorption_library import data_prep
+from pm_sorption_library import data_prep
 
 # define data sources
 source_Freundlich = "Tab_1_Freundlich_Parameters.csv"
