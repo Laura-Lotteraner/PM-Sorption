@@ -6,7 +6,7 @@ import pandas as pd
 from scipy.stats import pearsonr
 
 # import data preparation and distance calculations functions
-from pmt_sorption_library import data_prep, distances_clustering, distances_direct
+from pm_sorption_library import data_prep, distances_clustering, distances_direct
 
 # define data sources
 source_Freundlich = "Tab_1_Freundlich_Parameters.csv"
